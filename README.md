@@ -3,6 +3,8 @@
 # Tabby Relay
 Relay service used for friend connections
 
+![GitHub](https://img.shields.io/github/license/TaskTabby/TabbyRelay) ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/TaskTabby/TabbyRelay) ![GitHub repo size](https://img.shields.io/github/repo-size/TaskTabby/TabbyRelay) ![Lines of code](https://img.shields.io/tokei/lines/github/TaskTabby/TabbyRelay)
+
 > ⚠️ We do **NOT** merge any pull requests. This is only open source for transparency.
 
 ## License 
